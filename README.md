@@ -29,7 +29,8 @@ For example here: the obligatory result is 10,000 data
 ![Alt text](http://i.imgur.com/nXLK6PU.png "Optional title")
 
 #Result:
-
+- The functions of the code followed by graph below
+![Alt text](http://i.imgur.com/CRy002f.png "Optional title")
 
 ![Alt text](http://i.imgur.com/8Zb1bQm.png "Optional title")
 
