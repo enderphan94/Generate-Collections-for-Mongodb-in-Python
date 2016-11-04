@@ -18,7 +18,7 @@ birthday for itself.
 + Because it was created by a good filter by name's pattern, so the data given out is sometimes will be lesser than given requirements.
 For example here: the obligatory result is 10,000 data
                   Because of the filter, it just give 99,996 correct data and 4 data left was removed by filter.
-+ After giving out the data to the text files or .sql files, the  administrator/learner need to find the way to input to the command interface which is not convenient.
++ After giving out the data to the text files or .sql files, the  administrator/learner needs to find the way to input to the command interface which is not convenient.
 
 # Requirement from Lecturer:
 <html>
