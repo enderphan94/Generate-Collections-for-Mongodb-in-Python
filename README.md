@@ -23,6 +23,7 @@ interface which is not convenient.
 
 # Requirement from Lecturer:
 <html>
+<body>
 <p>Insert data to the database that would give for the following results for these 5 queries:</p>
 	<table>
 		<tr><th>Query</th><th>Result</th><th>Comment</th></tr>
@@ -52,6 +53,7 @@ interface which is not convenient.
 			<td>"name" starts with "Tom"</td>
 		</tr>
 	</table>
+</body>
 </html>
 #Result:
 
