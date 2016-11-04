@@ -22,6 +22,7 @@ For example here: the obligatory result is 10,000 data
 interface which is not convenient.
 
 # Requirement from Lecturer:
+```html
 <p>Insert data to the database that would give for the following results for these 5 queries:</p>
 	<table>
 		<tr><th>Query</th><th>Result</th><th>Comment</th></tr>
@@ -51,6 +52,6 @@ interface which is not convenient.
 			<td>"name" starts with "Tom"</td>
 		</tr>
 	</table>
-  
+```
 #Result:
   
