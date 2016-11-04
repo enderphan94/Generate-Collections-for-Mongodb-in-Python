@@ -35,5 +35,5 @@ For example here: the obligatory result is 10,000 data
 
 # The function should be improved in the future
 
-+ In order to make it much more convenient to the administrator/learner in term of pushing the given data to command interface. It could be done with 1 command line and those data will be able to be executed.
++ In order to make it much more convenient to the administrator/learner in term of pushing the given data to command interface. It could be done with 1 command line and those data will be able to be executed instantly.
 + Improve its accuracy: 100%
