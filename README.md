@@ -25,10 +25,8 @@ interface which is not convenient.
 <html>
 <body>
 <p>Insert data to the database that would give for the following results for these 5 queries:</p>
-
-
 </body>
 </html>
-![Alt text](http://imgur.com/nXLK6PU "Optional title")
+![Alt text](http://i.imgur.com/nXLK6PU.png "Optional title")
 #Result:
 
