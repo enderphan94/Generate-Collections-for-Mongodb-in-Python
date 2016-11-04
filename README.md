@@ -22,7 +22,7 @@ For example here: the obligatory result is 10,000 data
 interface which is not convenient.
 
 # Requirement from Lecturer:
-```html
+<html>
 <p>Insert data to the database that would give for the following results for these 5 queries:</p>
 	<table>
 		<tr><th>Query</th><th>Result</th><th>Comment</th></tr>
@@ -52,15 +52,6 @@ interface which is not convenient.
 			<td>"name" starts with "Tom"</td>
 		</tr>
 	</table>
-```
+</html>
 #Result:
-  <html>  
-<head>  
-  <title>Redirecting to main site</title>
-  <meta charset="UTF-8">
-  <meta http-equiv="refresh" content="0;url=README.html">
-</head>  
-<body>  
-  Redirecting<i>↻</i>
-</body>  
-</html> 
+
