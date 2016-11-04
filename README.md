@@ -1,7 +1,7 @@
 # Generate-Collections-for-Mongodb-in-Python
 
-The programe written in Python which will help administrator/learner who wish to generate the testing collections in MongoDB.
-The code designed not only for MongoDB, it can be used to generate some of popular Databases like MySQL, SQLPLUS ...
+The tool is written in Python which will help administrator/learner who wish to generate the testing collections in MongoDB.
+The code designed not only for MongoDB, it can be used to generate some of popular Databases such as MySQL, SQLPLUS ...
 
 # Advantanges
 
