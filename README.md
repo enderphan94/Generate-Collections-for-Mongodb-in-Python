@@ -25,34 +25,8 @@ interface which is not convenient.
 <html>
 <body>
 <p>Insert data to the database that would give for the following results for these 5 queries:</p>
-	<table>
-		<tr><th>Query</th><th>Result</th><th>Comment</th></tr>
-		<tr>
-			<td><pre>db.clients.count();</pre></td>
-			<td style="text-align: right; padding: 0 10px; font-weight: bold;">10000</td>
-			<td>Total number of documents</td>
-		</tr>
-		<tr>
-			<td><pre>db.clients.find({"birthdate":{"$lt":"1990-01-01"}}).count()</pre></td>
-			<td style="text-align: right; padding: 0 10px; font-weight: bold;">6000</td>
-			<td>"birthdate" is less than (before) "1990-01-01"</td>
-		</tr>
-		<tr>
-			<td><pre>db.clients.find({"birthdate":{"$gt":"1980-01-01"}}).count()</pre></td>
-			<td style="text-align: right; padding: 0 10px; font-weight: bold;">6000</td>
-			<td>"birthdate" is greater than "1980-01-01"</td>
-		</tr>
-		<tr>
-			<td><pre>db.clients.find({"name":"Tom"}).count()</pre></td>
-			<td style="text-align: right; padding: 0 10px; font-weight: bold;">100</td>
-			<td>"name" is "Tom"</td>
-		</tr>
-		<tr>
-			<td><pre>db.clients.find({"name":{"$regex":"^Tom"}}).count()</pre></td>
-			<td style="text-align: right; padding: 0 10px; font-weight: bold;">200</td>
-			<td>"name" starts with "Tom"</td>
-		</tr>
-	</table>
+![Alt text](http://imgur.com/nXLK6PU "Optional title")
+
 </body>
 </html>
 #Result:
