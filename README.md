@@ -11,15 +11,14 @@ birthday for itself.
 + It can be used to apply for many Database programming languages.
 + It can filter the variable which the administrator/learner want to work on with statement to give a correct data.
 + It can define the interval for birthday (datetime) which is really useful to give a proper result.
-+ Because it was writtern in Python, thus it probably can be able to run on many OS evironment (Windows, Linux, OSX..)
++ Because it was writtern in Python, thus it probably can be able to run on many OS evironments (Windows, Linux, OSX..)
 
 # Disadvantanges
 
 + Because it was created by a good filter by name's pattern, so the data given out is sometimes will be lesser than given requirements.
 For example here: the obligatory result is 10,000 data
                   Because of the filter, it just give 99,996 correct data and 4 data left was removed by filter.
-+ After giving out the data to the text files or .sql files, the  administrator/learner need to find the way to input to the command
-interface which is not convenient.
++ After giving out the data to the text files or .sql files, the  administrator/learner need to find the way to input to the command interface which is not convenient.
 
 # Requirement from Lecturer:
 <html>
@@ -33,3 +32,8 @@ interface which is not convenient.
 
 
 ![Alt text](http://i.imgur.com/8Zb1bQm.png "Optional title")
+
+# The function should be improved in the future
+
++ In order to make it much more convenient to the administrator/learner in term of pushing the given data to command interface. It could be done with 1 command line and those data will be able to be executed.
++ Improve its accuracy: 100%
