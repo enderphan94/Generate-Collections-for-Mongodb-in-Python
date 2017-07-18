@@ -30,7 +30,7 @@ For example here: the obligatory result is 10,000 data
 
 #Result:
 - The functions of the code followed by graph below
-![Alt text](http://i.imgur.com/CRy002f.png?1"Optional title")
+![Alt text](http://i.imgur.com/CRy002f.png "Optional title")
 
 - Final Output
 
